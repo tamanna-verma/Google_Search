@@ -1,0 +1,1 @@
+This is a project made using HTML and CSS with search bar added in it with a limited scope.
